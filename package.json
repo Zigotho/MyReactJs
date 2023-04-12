@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "typed-html": "^3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
